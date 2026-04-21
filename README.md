@@ -1,5 +1,7 @@
 # ERM-Format-Examples
 
+This is the file format I use for rename maps to anybody who's interested.
+
 ``` erm
 erm {
   game="TestGame",
